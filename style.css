@@ -1,0 +1,23 @@
+.page-wrapper{
+    background-color:blue;
+    height: 50vh;
+    width: 30%;
+    }
+    .top-wrapper{
+        background-color: green;
+        height: 10vh;
+        width: 50%;
+        margin: auto;
+    }
+    .middle-wrapper{
+        background-color:lightblue;
+        height: 30vh;
+        width: 50%;
+        margin: auto;
+    }
+    .bottom-wrapper{
+        background-color:brown;
+        height: 10vh;
+        width: 50%;
+        margin: auto;
+    }
